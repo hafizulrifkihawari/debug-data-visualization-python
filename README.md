@@ -8,8 +8,9 @@ Tools:
   
 git clone ```https://github.com/hafizulrifkihawari/debug-data-visualization-python.git```
 
-- Install extension Debug Visualizer on VSCODE
-    check here for docs -> https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
+- Install extension Debug Visualizer on VSCODE:
+    - check here for docs -> https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
+    - playground -> https://hediet.github.io/visualization/
 - Setup virtual env on the repo
 - Place a breakpoint and run a debugger
 - Open Debug Visualizer, shortcut Mac: cmd + shift + P
